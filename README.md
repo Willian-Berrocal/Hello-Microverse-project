@@ -2,7 +2,10 @@
 
 # Hello Microverse
 
-> This is my first project in Microverse
+> Created a branch for working on it as the GitHub flow states.
+> Added the linter's configuration and assured that it works with GitHub actions.
+> .gitignore file added and used to ignore non-important files in the repo.
+> HTML and CSS files added, as well as the test.md (file ignored by git).
 
 
 ## Built With
@@ -12,7 +15,7 @@
 
 ## Getting Started
 
-Clone this repository and open it in your browser
+Clone this repository and open it in your browser.
 
 
 ## Authors
